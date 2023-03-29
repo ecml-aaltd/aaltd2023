@@ -4,9 +4,9 @@ title: Discovery Challenge
 nav_order: 4
 ---
 
-# Human Activity Segmentation Challenge
+## Human Activity Segmentation Challenge
 
-This is *Discovery Challenge* will take place during the ECM/PKDD 2023 conference.
+This is *Discovery Challenge* will take place during the ECML/PKDD 2023 conference.
 
 ## Description
 
