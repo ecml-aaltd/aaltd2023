@@ -14,4 +14,4 @@ Human activity recognition (HAR) is essential for health monitoring, personal se
 
 More information on registration, etc coming soon.
 
-Start of the challenge is 11th april.
+**Start of the challenge is 11th april.**
