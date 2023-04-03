@@ -10,9 +10,9 @@ Human activity recognition (HAR) is essential for health monitoring, personal se
 
 ## Organization and Registration
 
-This competition is hosted by the <a href="https://2023.ecmlpkdd.org/submissions/discovery-challenge/challenges/" target="_blank">ECML/PKDD 2023 conference</a> as a *Discovery Challenge*. It is organized using the Kaggle platform between April and June and its results will be discussed at AALTD in September, 2023. 
+This competition is hosted by the <a href="https://2023.ecmlpkdd.org/submissions/discovery-challenge/challenges/" target="_blank">ECML/PKDD 2023 conference</a> as a *Discovery Challenge*. It is organized using the Kaggle platform starting 11th April and ending 11th June. The results and top three winning solutions will be presented at the AALTD workshop in September, 2023. 
 
-**Please fill out this <a href="https://docs.google.com/forms/d/1BoAJWlhCVU0LUeDLzb7GOBM4MTk2AKkfpY--hk987-0" target="_blank">form</a> to register for the challenge.**
+**Please fill out this <a href="https://docs.google.com/forms/d/1BoAJWlhCVU0LUeDLzb7GOBM4MTk2AKkfpY--hk987-0" target="_blank">google form</a> to register for the challenge. Participants are strictly prohibited from registering multiple times to gain an unfair advantage. No pseudonyms may be used for registration.**
 
 ## Data Description
 
@@ -22,19 +22,21 @@ We collected a data set of 250 twelve-dimensional multivariate TS, sampled at 50
 
 ## Awards
 
-The top three ranking competitors in this challenge will be rewarded with:
+The **top three** ranking competitors in this challenge will be rewarded with:
 
 * free ECML/PKDD 2023 conference registrations
 * oral presentation of their solution at AALTD
-* publication in the workshop proceedings
+* publication of their approach in the workshop proceedings
 
-The specific competition rules and requirements are available on the Kaggle platform.
+The specific competition rules and requirements to be eligible for rewards are available on the Kaggle platform.
 
 ## Timeline
-The challenge has two primary phases and a follow-up period for the three best-ranking competitors. In the first phase, new competitors can join and start working on the segmentation problem. In the second phase, no new participants can join the challenge any more and the existing ones may focus on optimizing their approaches. After the competition ends, the three best-scoring competitors write a report and publish their code.
+The challenge has two primary phases and a follow-up period for the top three best-ranking competitors. In the first phase, new competitors can join and start working on the segmentation problem. In the second phase, no new participants can join the challenge any more and the existing participants may focus on optimizing their approaches. After the competition ends, the three best-scoring competitors must write a report on their approach and publish their code.
 
-* Start of competition: Tuesday, 11th April 2023
-* No more new competitors allowed: Thursday, 12th May 2023
-* End of competition: Sunday, 11th June 2023
-* Winners hand-in written reports: Monday, 3rd July 2023
+* Start of competition: Tuesday, 11th April 2023, 11:59 PM UTC
+* No more new competitors allowed: Thursday, 12th May 2023, 11:59 PM UTC
+* End of competition: Sunday, 11th June 2023 UTC, 11:59 PM UTC
+* Witten report submission deadline: Monday, 3rd July 2023 (planned)
+* Acceptance notification: Monday, 17thd July 2023 (planned)
+* Camera-ready deadline: Sunday, July 30, 2023 (planned)
 * Winners present solutions at AALTD@ECML/PKDD 2023: Monday, 18th September - Friday, 22th September 2023
