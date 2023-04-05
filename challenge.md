@@ -43,8 +43,8 @@ The challenge has two primary phases and a follow-up period for the top three be
 
 ## Powered By
 
-1. tslearn: https://tslearn.readthedocs.io/
-2. aeon: https://www.aeon-toolkit.org/
+1. [tslearn](https://tslearn.readthedocs.io/)
+2. [aeon](https://www.aeon-toolkit.org/)
 
 ## Citation
 
