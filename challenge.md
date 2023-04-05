@@ -40,3 +40,9 @@ The challenge has two primary phases and a follow-up period for the top three be
 * Acceptance notification: Monday, 17thd July 2023 (planned)
 * Camera-ready deadline: Sunday, July 30, 2023 (planned)
 * Winners present solutions at AALTD@ECML/PKDD 2023: Monday, 18th September - Friday, 22th September 2023
+
+## Powered By
+
+1. tslearn: https://tslearn.readthedocs.io/
+2. aeon: https://www.aeon-toolkit.org/
+
