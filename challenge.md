@@ -46,3 +46,15 @@ The challenge has two primary phases and a follow-up period for the top three be
 1. tslearn: https://tslearn.readthedocs.io/
 2. aeon: https://www.aeon-toolkit.org/
 
+## Citation
+
+If you use this data, please cite as:
+```
+@misc{segmentation_challenge,
+	author = {Ermshaus, Arik, and Sch{\"a}fer, Patrick, and Leser, Ulf and  Bagnall, Anthony and Tavenard, Romain and Leverger, Colin and Lemaire, Vincent and Malinowski, Simon and Guyet, Thomas and Ifrim, Georgiana},
+	howpublished = {ECML/PKDD 2023 Discovery Challenge},
+	month = {April},
+	title = {Human Activity Segmentation Challenge},
+	year = {2023}
+}
+```
