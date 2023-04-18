@@ -60,3 +60,11 @@ If you use the challenge data in your publication, please cite us as:
 	year = {2023}
 }
 ```
+
+## Competition Link
+
+[Kaggle competition](https://www.kaggle.com/competitions/human-activity-segmentation-challenge)
+
+You must register to participate. See above.
+
+
