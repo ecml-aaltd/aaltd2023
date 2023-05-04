@@ -36,10 +36,10 @@ The specific competition rules and requirements to be eligible for rewards are a
 The challenge has two primary phases and a follow-up period for the top three best-ranking competitors. In the first phase, new competitors can join and start working on the segmentation problem. In the second phase, no new participants can join the challenge any more and the existing participants may focus on optimizing their approaches. After the competition ends, the three best-scoring competitors must write a report on their approach and publish their code.
 
 * Start of competition: Tuesday, 11th April 2023, 11:59 PM UTC
-* No more new competitors allowed: Thursday, 12th May 2023, 11:59 PM UTC
+* No more new competitors allowed: Friday, 2nd June 2023, 11:59 PM UTC
 * End of competition: Sunday, 11th June 2023 UTC, 11:59 PM UTC
 * Witten report submission deadline: Monday, 3rd July 2023 (planned)
-* Acceptance notification: Monday, 17thd July 2023 (planned)
+* Acceptance notification: Wednesday, 12th July 2023 (planned)
 * Camera-ready deadline: Sunday, July 30, 2023 (planned)
 * Winners present solutions at AALTD@ECML/PKDD 2023: Monday, 18th September - Friday, 22th September 2023
 
