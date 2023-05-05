@@ -22,5 +22,5 @@ At least one of the authors must be registered to the conference. If not, the pa
 
 All the articles accepted for the workshop will be available online for at least 3 years.
  
-After the workshop, authors of selected papers will be invited for publication in a special volume in the Lecture Notes in Computer Science (LNCS) series (see [last year’s edition](https://link.springer.com/book/10.1007/978-3-031-24378-3)).
+Since the 4th edition of the workshop, authors of selected papers are invited to publish extended versions of their papers in a special volume in the Lecture Notes in Artificial Intelligence (Springer LNAI) series. The success of the workshop enables us to propose a standalone special volume of the AALTD Workshop (see [last year’s edition](https://link.springer.com/book/10.1007/978-3-031-24378-3)).
 
