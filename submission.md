@@ -15,6 +15,12 @@ There are  two submission tracks:
 
 
 Authors that would not want their papers to apply for possible oral presentation should inform the organisers at the time of submission. Submitted papers should be 6 to 16 pages long using the LNCS formatting style.
+
+Each accepted paper will be invited to propose a camera ready version of their article taking into account the reviewers recommendations. Note that being accepted as a poster does not require reducing the length of the article. The organizers prepare the list of oral presentations, considering the program constraints and the scientific interest for broader exposition of the work.
+
+At least one of the authors must be registered to the conference. If not, the paper will not appear in the program.
+
+All the articles accepted for the workshop will be available online for at least 3 years.
  
 After the workshop, authors of selected papers will be invited for publication in a special volume in the Lecture Notes in Computer Science (LNCS) series (see [last year’s edition](https://link.springer.com/book/10.1007/978-3-031-24378-3)).
 
