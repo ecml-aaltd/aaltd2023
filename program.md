@@ -4,6 +4,12 @@ title: Program
 nav_order: 3
 ---
 
+The details of the program will be soon available. At the time, you can find the list of accepted articles that will be presented during the workshop. The program will also include:
+
+* Invited Talk by Geoff Webb, "Convolutional kernels for effective and scalable time series analytics"
+* Presentation of the winning solutions of the [Human Activity Segmentation Challenge](https://2023.ecmlpkdd.org/submissions/discovery-challenge/challenges/)
+
+
 ### Accepted for oral presentation
 
 * <i>Clustering time series with k-medoids based algorithms</i>,  Christopher L Holder (University of East Anglia); David Guijo-Rubio (Universidad de Córdoba); Anthony Bagnall (University of East Anglia)
