@@ -9,7 +9,7 @@ The workshop will take place on Monday 18th of September.
 # Morning session #1
 
 - 9am: Introduction
-- 9:10-10am: Invited Talk by Geoff Webb, "Convolutional kernels for effective and scalable time series analytics"
+- 9:10-10am: Invited Talk by Geoff Webb, ["Convolutional kernels for effective and scalable time series analytics"](invitedtalk.html)
 - 10am-11am: Presentation of the winning solutions of the [Human Activity Segmentation Challenge](https://2023.ecmlpkdd.org/submissions/discovery-challenge/challenges/) (15' presentation per solution + 5' questions)
     * [Change points detection in multivariate signal applied to human activity segmentation](papers/lncs_ecml_pkdd2023_report_Haranczyk_rev.pdf),  Grzegorz Haranczyk
     * [Change Point Detection via Synthetic Signals](papers/ECML_PKDD_camera_ready.pdf),  Ting-Ji Huang (Nanjing University); Qi-le Zhou (Nanjing University); Han-Jia Ye (Nanjing University); De-Chuan Zhan (Nanjing University)
@@ -39,6 +39,7 @@ The workshop will take place on Monday 18th of September.
 	* [Deep Long Term Prediction for Semantic Segmentation in Autonomous Driving](papers/Dash_Deep_Long_Term_Prediction_in_SemSeg_for_AD_ECML_WS2023_camera_ready.pdf) ([supplementary material](papers/Dash_Deep_Long_Term_Prediction_in_SemSeg_for_AD_ECML_WS2023_Supp_camera_ready.pdf)),  Bidya Dash (Volkswagen AG); Shreyas Bilagi (Volkswagen AG); Jasmin Breitenstein (Technische Universität Braunschweig); Volker Schomerus (Volkswagen AG); Thorsten Bagdonat (Volkswagen AG); Tim Fingscheidt ( Technische Universität Braunschweig)
 	* [Distribution-aware Evaluation of Multimodal Trajectory Predictions with Energy Score](papers/Distribution_aware_Evaluation_of_Multimodal_Trajectory_Predictions_with_Energy_Score.pdf),  Novin Shahroudi (University of Tartu); Meelis Kull (University of Tartu)
 	* [ShapeDBA: Generating Effective Time Series Prototypes using ShapeDTW Barycenter Averaging](papers/AliIsmail-Fawaz_ShapeDBA_AALTD2023.pdf),  Ali Ismail-Fawaz (IRIMAS, Université de Haute-Alsace); Hassan Ismail Fawaz (University of Haute Alsace); François Petitjean (Department of Data Science and Artificial Intelligence, Monash University); Maxime Devanne (Université de Haute Alsace); Jonathan Weber (University of Haute Alsace); Stefano Berretti (University of Florence, Italy); Geoffrey I Webb (Monash); Germain Forestier (University of Haute Alsace)
+
 # _Coffee break_
 
 # Afternoon session #2
