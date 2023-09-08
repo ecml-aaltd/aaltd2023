@@ -4,7 +4,7 @@ title: Program
 nav_order: 3
 ---
 
-The workshop will take place on Monday 18th of September.
+The workshop will take place on Monday 18th of September in room Aula 5i.
 
 # Invited talk session (chair: Tony Bagnall)
 
