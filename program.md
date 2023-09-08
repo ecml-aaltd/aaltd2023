@@ -6,17 +6,20 @@ nav_order: 3
 
 The workshop will take place on Monday 18th of September.
 
-# Morning session #1
+# Invited talk session (chair: Tony Bagnall)
 
 - 9am: Introduction
 - 9:10-10am: Invited Talk by Geoff Webb, ["Convolutional kernels for effective and scalable time series analytics"](invitedtalk.html)
+
+# Human Activity Segmentation Challenge Session (chair: Arik Ermshaus)
+
 - 10am-11am: Presentation of the winning solutions of the [Human Activity Segmentation Challenge](https://2023.ecmlpkdd.org/submissions/discovery-challenge/challenges/) (15' presentation per solution + 5' questions)
     * [Change points detection in multivariate signal applied to human activity segmentation](papers/lncs_ecml_pkdd2023_report_Haranczyk_rev.pdf),  Grzegorz Haranczyk
     * [Change Point Detection via Synthetic Signals](papers/ECML_PKDD_camera_ready.pdf),  Ting-Ji Huang (Nanjing University); Qi-le Zhou (Nanjing University); Han-Jia Ye (Nanjing University); De-Chuan Zhan (Nanjing University)
 
 # _Coffee break_
 
-# Morning session #2
+# Poster session (chair: Romain Tavenard)
 
 - 11:30-1pm: Poster session (including 2' spotlight presentation per poster)
     * [Temporal Performance Prediction for Deep Convolutional Long Short-Term Memory Networks](<papers/Fieback et al. 2023 Temporal Performance Prediction for Deep ConvLSTMs.pdf>),  Laura Fieback (Volkswagen AG); Bidya Dash (Volkswagen AG); Jakob Spiegelberg (Volkswagen AG); Hanno Gottschalk (University of Wuppertal)
@@ -32,7 +35,7 @@ The workshop will take place on Monday 18th of September.
 
 # _Lunch break_
 
-# Afternoon session #1
+# "Forecasting & Generation" oral session (chair: Georgiana Ifrim)
 
 - 2:30-4pm: "Forecasting & Generation" oral session (15' presentation per paper + 5' questions)
 	* [Explainable Parallel RCNN with Novel Feature Representation for Time Series Forecasting](<papers/Explainable Parallel RCNN with Novel Feature Representation for Time Series Forecasting - camera-ready.pdf>),  Jimeng Shi (Florida International University); Rukmangadh Myana (Florida International University); Vitalii Stebliankin (FIU); Azam Shirali (Florida International University); Giri Narasimhan (Florida International University)
@@ -42,7 +45,7 @@ The workshop will take place on Monday 18th of September.
 
 # _Coffee break_
 
-# Afternoon session #2
+# "Classification & Clustering" oral session (chair: Romain Tavenard)
 
 - 4:30-6pm: "Classification & Clustering" oral session (15' presentation per paper + 5' questions)
 	* [Clustering time series with k-medoids based algorithms](papers/AALTD_K_Medoids_Clustering.pdf),  Christopher L Holder (University of East Anglia); David Guijo-Rubio (Universidad de Córdoba); Anthony Bagnall (University of East Anglia)
