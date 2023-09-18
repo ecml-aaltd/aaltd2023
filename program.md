@@ -18,7 +18,7 @@ The workshop will take place on Monday 18th of September.
 
 # Morning session #2
 
-- 11:30-1pm: Poster session (including 2' spotlight presentation per poster)
+- 11:30-1pm: Poster session (including 2' spotlight presentation per poster) [[link to spotlight slides](papers/spotlights.pdf)]
     * [Temporal Performance Prediction for Deep Convolutional Long Short-Term Memory Networks](<papers/Fieback et al. 2023 Temporal Performance Prediction for Deep ConvLSTMs.pdf>),  Laura Fieback (Volkswagen AG); Bidya Dash (Volkswagen AG); Jakob Spiegelberg (Volkswagen AG); Hanno Gottschalk (University of Wuppertal)
     * [Evaluating Explanation Methods for Multivariate Time Series Classification](<papers/Evaluating Explanation Methods for MTSC_typoFixed.pdf>),  Davide Italo DI Serramazza (University College Dublin); Thu Trang Nguyen (University College Dublin); Thach Le Nguyen (University College Dublin); Georgiana Ifrim (University College Dublin)
     * [tGLAD: A sparse graph recovery based approach for multivariate time series segmentation](<papers/CameraReady 67.pdf>),  Shima Imani (Microsoft Research); Harsh Shrivastava (Microsoft Research)
