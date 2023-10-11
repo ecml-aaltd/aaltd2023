@@ -4,6 +4,8 @@ title: Discovery Challenge
 nav_order: 4
 ---
 
+Note: The challenge has ended. We provide a summary of its organization and results in this <a href="papers/has_challenge_ecml.pdf">paper</a>, including access to the labelled data sets.
+
 ## Human Activity Segmentation Challenge
 
 Human activity recognition (HAR) is essential for health monitoring, personal security, and various other applications. Current HAR systems process fixed-length subsequences of sensor data, e.g. 1 second, leading to performance losses for longer complex activities. This challenge focuses on improving accuracy of such systems by exploring the under-studied area of partitioning real-world, multi-variate human motion sensor data into variable-sized activity segments. You will work with a large new data set featuring 10.7 hours of multi-dimensional smartphone sensor data from students performing 100 different daily activities. Your objective is to accurately segment this complex motion data into an unknown number of single activities.
